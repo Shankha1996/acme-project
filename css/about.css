@@ -1,0 +1,27 @@
+
+
+.about-banner-section{
+  background-image: url(../images/group-tours.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+}
+
+.display-about{
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 55px;
+
+}
+.about-lead{
+  color: #ffffff;
+}
+.heading-part{
+  text-align:center;
+  margin-top: 50px;
+
+}
+.col-lg-3 col-sm-12{
+
+}
